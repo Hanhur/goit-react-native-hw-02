@@ -12,6 +12,7 @@
 Макет компонента RegistrationScreen з відкритою клавіатурою
 Макет компонента LoginScreen
 Макет компонента LoginScreen з відкритою клавіатурою
+
 ![Screenshot](./screenshot/Snímek%20obrazovky%201.jpg)
 
 ![Screenshot](./screenshot/Snímek%20obrazovky%202.jpg)
